@@ -1,8 +1,5 @@
 # CourierServiceSystem
-## OODJ Assignment System
-
-*By Chen Wey Kiat And Tan Ka-Shing*
-
+## First JavaFX System!
 
 ### Users
 -   Customers
@@ -13,7 +10,6 @@
 ### Functional Requirements
 
 #### Managing Staff
-
 
 Login/Logout
 - [x]	Login
